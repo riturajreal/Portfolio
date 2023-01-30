@@ -35,6 +35,14 @@ body{
     border-radius: 100px;
 }
 
+.btn:hover{
+    background-color: white;
+    border: 1px solid var(--main-color);
+    padding: 15px 30px;
+    border-radius: 100px;
+    color: black;
+}
+
 h1{
     font-family: 'Fraunces', serif;
     font-size: 6rem;
